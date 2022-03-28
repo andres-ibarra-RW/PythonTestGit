@@ -1,3 +1,2 @@
-print("hello World")
-print("this is a new line")
-print("new line here")
+for i in range(5):
+    print(i)
