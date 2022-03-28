@@ -16,3 +16,6 @@ def res(s):
 
 for i in range (5):
     print(i)
+    
+print("this is a test for branching")
+print ("loop1 has been added")
